@@ -8,11 +8,10 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Science in Computer-Science and 
   Bachelor of Science in Cybersecurity (class of 2022)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="https://drive.google.com/file/d/1_hXxFONwbhE7h_wJ7Lh2REFoO6wmSbtY/view?usp=sharing">View My Resume</a>
 repository: "Epowell50/Epowell50.github.io"
 github_username:  Epowell50 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
 theme: jekyll-theme-minimal
-
