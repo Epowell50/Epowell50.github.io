@@ -27,7 +27,7 @@ g++ League.cpp -o Run.exe
 
 ## UI Design
 
-This program is very UI ineffecienta and only has basic functions. A player selection area, a fight area, and a hit icon when another player is hit. A player must first enter the
+This program is very UI ineffecient and only has basic functions. A player selection area, a fight area, and a hit icon when another player is hit. A player must first enter the
 broadcast IP into the program to "join" the game. Once there, a player must select the character that they wish to represent them (See figure 1). Once a character is selected, you
 are put into the game and allowed to play. The characters move around the screen automatically and the only interaction available is the "hit" function done by pressing different
 letters on the keyboard. When a player is hit, a "hit" image is displayed and the removed to show a successful hit (See figure 2). The game can be quit at any time by ending the
