@@ -53,7 +53,7 @@ Fig 4. The view of the user when they find an item.
 ![Gameplay](images/OOP/Game_Run.JPG)
 Fig 5. The view when the game is running.
 
-![Anagram](images/OOP/Anogram_Puzzle>JPG)
+![Anagram](images/OOP/Anogram_Puzzle.JPG)
 Fig 6. The anagram puzzle view.
 
 ![Chess](images/OOP/Chess_Puzzle.JPG)
