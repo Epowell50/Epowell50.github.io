@@ -21,7 +21,7 @@ This project is a data structure designed to map student names with their respec
 * How many
     * This function displays the number of students with the given prefix.
 
-## How to compiles / run the program
+## How to compile / run the program
 
 How to compile (if applicable) and run the project.
 
