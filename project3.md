@@ -62,7 +62,7 @@ Fig 7. The chess puzzle view.
 ![Torches](images/OOP/Torch_Puzzle.JPG)
 Fig 8. The torch puzzle view.
 
-![Riddle](images/OOP/Riddle_Puzzle.JPG)
+![Riddle](images/OOP/Time_Puzzle.JPG)
 Fig 9. The riddle puzzle view.
 
 ![Ring](images/OOP/Ring_Puzzle.JPG)
