@@ -3,10 +3,10 @@
 RPG Team Project
 ===============
 
--   **Class: CSCI 301** 
+-   **Class: CSCI 325** 
 -   **Grade: 100.00**
--   **Language(s): Perl**
--   **Source Code Repository:** [Epowell50/Survey_Project](https://github.com/Epowell50/Epowell50-Survey_Perl_Project)  
+-   **Language(s): Java**
+-   **Source Code Repository:** [Epowell50/RPG_Project](https://github.com/Epowell50/Epowell50-RPG_Project)  
     (Please [email me](mailto:erpowell@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
