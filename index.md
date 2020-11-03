@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Bug Testing - The Modern Dilemma](/pdf/Bug_Testing-The_Modern_Dilemma.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 315**  
+-   **Grade: 100.00**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Code Plagarism](/pdf/Code_Plagarism.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325** 
+-   **Grade: 100.00**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Copywright - A Question of Ethics](/pdf/Copywright-A_Question_of_Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301** 
+-   **Grade: 100.00**
 
 ---
 
