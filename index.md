@@ -17,9 +17,9 @@ Programming Projects
 ![Map Structure](images/Map_Project.JPG)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [RPG Team Project | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Game Run](images/OOP/Game_Run.JPG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
