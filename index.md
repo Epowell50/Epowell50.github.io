@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [What is Cloud Storage](/pdf/Cloud_Storage.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405** 
+- **Grade: 100.00**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [The Equifax Breach](/pdf/Equifax_Breach.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301** 
+- **Grade: 100.00**
 
 ---
 
