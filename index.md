@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:erpowell@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Perl Hash Table with File Reading and Writing | CSCI 301](project2)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sorted Output](images/Sorted.JPG)
 
 ---
 ### [Student ID Map | CSCI 315](project1)
