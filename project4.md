@@ -41,8 +41,8 @@ Fig 1. The hit image when a character has been hit.
 
 ## 3. Additional Considerations
 
-This project was very difficult, as most fo the code was given to us without much explination on how it worked. We were only to edit small portions of the code that we were
-assigned, casuing the programming flow to be very choppy and not very informative. I learned from this project that it is best to understand the code its entirety before
+This project was very difficult, as most of the code was given to us without much explination on how it worked. We were only to edit small portions of the code that we were
+assigned, causing the programming flow to be very choppy and not very informative. I learned from this project that it is best to understand the code its entirety before
 one is able to work on code effectively.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
