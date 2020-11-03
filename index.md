@@ -22,9 +22,9 @@ Programming Projects
 ![Game Run](images/OOP/Game_Run.JPG)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [League Multiplayer Project | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Player](images/c2.bmp)
 
 ---
 
