@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Student ID Map | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Map Structure](images/Map_Project.jpg)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
