@@ -33,7 +33,7 @@ are put into the game and allowed to play. The characters move around the screen
 letters on the keyboard. When a player is hit, a "hit" image is displayed and the removed to show a successful hit (See figure 2). The game can be quit at any time by ending the
 process through CTRL+C, or clicking the "X" at the top right of the window.
 
-![screenshot](images/c4.PNG)
+![screenshot](images/c4.png)
 Fig 1. The character selection screen
 
 ![screenshot](images/Hit.bmp)
