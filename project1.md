@@ -1,43 +1,45 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Student ID Map
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 315** 
+-   **Grade: 100.00**
+-   **Language(s): C++**
+-   **Source Code Repository:** [Epowell50/Data_Structures_Project](https://github.com/Epowell50/Epowell50-Data_Strucutres_Project)  
+    (Please [email me](mailto:erpowell@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a data structure designed to map student names with their respective ID numbers. This project has the following functions:
+* Add a student
+    * This function adds a student to the strucuture.
+* Delete a student
+    * This function removes a student from the structure.
+* Retirieve a student
+    * This funcytion retirieves the student ID when given the respective name.
+* How many
+    * This function displays the number of students with the given prefix.
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd /project
+g++ map.cpp map.hpp main.cpp -o Run.exe
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Since the program is built around a data structure and not a user interface, the interface is very simple. This program was meant to stress the use of a data structure to effectively store a large amount of data and consistently have a quick acess time. While in operation, the structure will have the add, remove, howMany, and get function. These functions are shown below and can be referenced in figure 1. First is the add function. The add function adds the name to the data structure with the given ID. The get function is then called to retrive the specific ID of the given name, returning 1 as the name exists. The next function removes the name from the structure, although keeping the allocated lists. Lastly, we try to remove a name that does not exist in the structure. This results in a return value of 0, being false, to show that the name was unsuccessfully removed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Map_Project.JPG)
+Fig 1. The data structure in action
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project was made to stress test making a map structure from the ground up. This structure has a log27(n) search and delete time, making it very efficient for storing large amounts of IDs. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
